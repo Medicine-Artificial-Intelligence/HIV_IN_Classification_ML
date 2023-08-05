@@ -26,7 +26,7 @@ This module requires the following modules:
 ## **Contributors**
 
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
-- [Hoang-Son Le Lai]()
+- [Hoang-Son Le Lai](https://github.com/lelaihoangson)
 - [The-Chuong Trinh](https://trinhthechuong.github.io/)
 - [Gia-Bao Truong](https://github.com/buchijw)
 - [Van-Thinh To](https://thinhump.github.io/)
